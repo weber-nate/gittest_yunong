@@ -1,2 +1,2 @@
 whatever
-this is gonna go wrong...
+this is the right way to do.
